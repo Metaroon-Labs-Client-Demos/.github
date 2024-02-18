@@ -1,4 +1,4 @@
-![Metaroon Labs Banner](https://example.com/path/to/banner/image.jpg)
+![Metaroon Labs Banner](https://raw.githubusercontent.com/Metaroon-Labs-Client-Demos/.github/main/profile/assets/metaroon-labs-banner.jpg)
 
 # Welcome to Metaroon Labs
 
